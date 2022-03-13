@@ -1,4 +1,4 @@
-![header](https://github.com/KChernogrivov/KChernogrivov/commit/44a6a8db35353ffc1ab44ed106f3cf61b7d58497)
+![header](https://github.com/KChernogrivov/KChernogrivov/blob/main/assets/header.svg)
 
 about me
 
