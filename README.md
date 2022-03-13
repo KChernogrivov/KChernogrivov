@@ -8,3 +8,8 @@
 ![C++](https://img.shields.io/badge/-C++-black?style=for-the-badge&logo=C)
 ![CSS](https://img.shields.io/badge/-CSS-black?style=for-the-badge&logo=CSS)
 ![HTML](https://img.shields.io/badge/-HTML-black?style=for-the-badge&logo=HTML)
+
+## Contact with me
+
+[![VK](https://img.shields.io/badge/-Vkontakte-black?style=for-the-badge&logo=VK)](https://vk.com/progamer227)
+[![TELEGRAM](https://img.shields.io/badge/-TELEGRAM-black?style=for-the-badge&logo=TELEGRAM)](https://t.me/Silvery11)
