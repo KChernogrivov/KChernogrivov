@@ -22,5 +22,6 @@
 <br>
 
 ## My stats card
-My activity is displayed here. These statistics are always updated.
+
 <img src="https://github-readme-stats.vercel.app/api?username=KChernogrivov&count_private=true&show_icons=true&theme=vision-friendly-dark&bg_color=00001C" align="right" />
+My activity is displayed here. These statistics are always updated.
