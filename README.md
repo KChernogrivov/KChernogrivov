@@ -13,3 +13,7 @@
 
 [![VK](https://img.shields.io/badge/-Vkontakte-black?style=for-the-badge&logo=VK)](https://vk.com/progamer227)
 [![TELEGRAM](https://img.shields.io/badge/-TELEGRAM-black?style=for-the-badge&logo=TELEGRAM)](https://t.me/Silvery11)
+
+## My stats card
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KChernogrivov&count_private=true&show_icons=true&theme=vision-friendly-dark)](https://github.com/KChernogrivov)
