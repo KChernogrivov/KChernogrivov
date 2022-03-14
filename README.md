@@ -2,7 +2,6 @@
 
 ## Hello, my name is Kirill, I am junior web developer. Here I will be posting my project and study progress. If you want to follow on me, welcome :)
 <br>
-<br>
 
 ## These are the languages and tools I use
 
@@ -14,13 +13,14 @@
 ![HTML](https://img.shields.io/badge/-HTML-black?style=for-the-badge&logo=html5)
 
 <br>
-<br>
 
 ## Contact with me
 
 [![VK](https://img.shields.io/badge/-Vkontakte-black?style=for-the-badge&logo=VK)](https://vk.com/progamer227)
 [![TELEGRAM](https://img.shields.io/badge/-TELEGRAM-black?style=for-the-badge&logo=TELEGRAM)](https://t.me/Silvery11)
 
-## My stats card
+<br>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KChernogrivov&count_private=true&show_icons=true&theme=vision-friendly-dark&bg_color=00001C)](https://github.com/KChernogrivov)
+## My stats card
+My activity is displayed here. These statistics are always updated.
+<img src="https://github-readme-stats.vercel.app/api?username=KChernogrivov&count_private=true&show_icons=true&theme=vision-friendly-dark&bg_color=00001C" align="right" />
