@@ -7,8 +7,6 @@
 
 ![vue](https://img.shields.io/badge/-VUE-black?style=for-the-badge&logo=vue.js)
 ![JavaScript](https://img.shields.io/badge/-JAVASCRIPT-black?style=for-the-badge&logo=JavaScript)
-![vue](https://img.shields.io/badge/-SQL-black?style=for-the-badge&logo=mysql)
-![C++](https://img.shields.io/badge/-C++-black?style=for-the-badge&logo=c%2B%2B)
 ![CSS](https://img.shields.io/badge/-CSS-black?style=for-the-badge&logo=css3)
 ![HTML](https://img.shields.io/badge/-HTML-black?style=for-the-badge&logo=html5)
 
