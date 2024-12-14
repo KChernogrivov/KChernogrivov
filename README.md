@@ -1,6 +1,6 @@
 ![header](https://github.com/KChernogrivov/KChernogrivov/blob/main/assets/header.svg)
 
-## Hello, my name is Kirill, I am junior web developer. Here I will be posting my project and study progress. If you want to follow on me, welcome :)
+## Hello, my name is Kirill, I am middle frontend developer. Here I will be posting my project and study progress. If you want to follow on me, welcome :)
 <br>
 
 ## These are the languages and tools I use
